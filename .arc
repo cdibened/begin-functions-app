@@ -1,10 +1,6 @@
-#
-# Warning! Do Not Edit
-# --------------------
-# This is a generated file and will be overwritten
-#
 @app
-test-app
+hallow-w8z
 
 @html
 get /
+get /about
